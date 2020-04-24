@@ -20,7 +20,7 @@ Die Evaluation wird in Kooperation mit dem YouTube-Kanal [*ÖPNV Simulationen*](
 <br>
 **Evaluationsablauf:**
 <br>
-Bitte öffnen Sie den Fragebogen für die Evaluation (siehe den Abschnitt Links). Lesen Sie sich innerhalb der Fragebogens die Informationsseiten durch bevor Sie zur Aufgabenseite gelangen. Für die Bearbeitung der Aufgaben, laden Sie bitte die Simulationsanwendung runter und starten Sie das Programm. Zur Bearbeitung der Aufgaben 2,3 und 4 wird eine Simulation der Stadt Frankfurt am Main benötigt. Um diese zu erzeugen, drücken Sie im Hauptmenü auf die "Simulation starten"-Taste und dannach im nächsten Fenster direkt auf die "Start"-Taste. Sobald die Simulation geladen wurde, können Sie mit der Bearbeitung der Aufgaben fortfahren. Nachdem alle Aufgaben bearbeitet wurden, können Sie mit dem Fragebogen fortfahren. 
+Bitte öffnen Sie den Fragebogen für die Evaluation (siehe den Abschnitt Links). Lesen Sie sich innerhalb des Fragebogens die Informationsseiten durch bevor Sie zur Aufgabenseite gelangen. Für die Bearbeitung der Aufgaben, laden Sie bitte die Simulationsanwendung runter und starten Sie das Programm (entpacken Sie die .zip Datei und starten Sie *OPNV Simulator.exe*). Zur Bearbeitung der Aufgaben 2,3 und 4 wird eine Simulation der Stadt Frankfurt am Main benötigt. Um diese zu erzeugen, drücken Sie im Hauptmenü auf die "Simulation starten"-Taste und dannach im nächsten Fenster direkt auf die "Start"-Taste. Sobald die Simulation geladen wurde, können Sie mit der Bearbeitung der Aufgaben fortfahren. Nachdem alle Aufgaben bearbeitet wurden, können Sie mit dem Fragebogen fortfahren. 
 <br>
 <br>
 
