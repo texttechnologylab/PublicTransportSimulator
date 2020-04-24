@@ -11,7 +11,7 @@ Die Evaluation wird in Kooperation mit dem YouTube-Kanal "*ÖPNV Simulationen*" 
 
 [**Fragebogen zur Evaluation der Simulationsanwendung:**](https://alensm.typeform.com/to/eBaLzt)
 
-Goethe-Universität Frankfurt am Main
-Fachbereich 12 Informatik und Mathematik
-Text Technology Lab
+Goethe-Universität Frankfurt am Main  
+Fachbereich 12 Informatik und Mathematik  
+Text Technology Lab  
 <img align="left" width="200" height="100" src="https://upload.wikimedia.org/wikipedia/de/f/f0/Goethe-Logo.svg">
