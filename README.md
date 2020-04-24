@@ -6,7 +6,7 @@ Die Simulation wurde im Rahmen einer Bachelorarbeit von Herrn Alen Smajic an der
 <br>
 Thema der Arbeit: "Entwicklung und Erprobung eines interaktiven 3D-Stadtmodells am Beispiel des Personennahverkehrsnetzwerks der Stadt Frankfurt"
 
-Die Evaluation wird in Kooperation mit dem YouTube-Kanal "*ÖPNV Simulationen*" durchgeführt.
+Die Evaluation wird in Kooperation mit dem YouTube-Kanal [*ÖPNV Simulationen*](https://www.youtube.com/channel/UCO1BuqVzRmpsgZt8Tfxhipg) durchgeführt.
 
 [**Hier geht es zum Download der Simulationsanwendung**](http://www.texttechnologylab.org/files/PublicTransportSimulator.zip)
 
