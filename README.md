@@ -7,11 +7,9 @@ Thema der Arbeit: "Entwicklung und Erprobung eines interaktiven 3D-Stadtmodells 
 
 Die Evaluation wird in Kooperation mit dem YouTube-Kanal "*ÖPNV Simulationen*" durchgeführt.
 
-Downloadlink für die Simulationsanwendung:
-http://www.texttechnologylab.org/files/PublicTransportSimulator.zip
+[**Downloadlink für die Simulationsanwendung:**](http://www.texttechnologylab.org/files/PublicTransportSimulator.zip)
 
-Fragebogen zur Evaluation der Simulationsanwendung:
-https://alensm.typeform.com/to/eBaLzt
+[**Fragebogen zur Evaluation der Simulationsanwendung:**](https://alensm.typeform.com/to/eBaLzt)
 
 Goethe-Universität Frankfurt am Main
 Fachbereich 12 Informatik und Mathematik
