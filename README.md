@@ -16,4 +16,4 @@ Die Evaluation wird in Kooperation mit dem YouTube-Kanal "*ÖPNV Simulationen*" 
   <b>Fachbereich 12 Informatik und Mathematik</b><br>
   <b>Text Technology Lab</b><br>
 </p>
-<img align="centre" width="200" height="100" src="https://upload.wikimedia.org/wikipedia/de/f/f0/Goethe-Logo.svg">
+<img align="center" width="200" height="100" src="https://upload.wikimedia.org/wikipedia/de/f/f0/Goethe-Logo.svg">
