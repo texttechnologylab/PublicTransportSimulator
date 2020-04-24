@@ -8,7 +8,7 @@ Wilkommen zur offiziellen github-Seite des Texttechnologylab's zur Evaluation de
 Die Simulation wurde im Rahmen einer Bachelorarbeit von Herrn Alen Smajic an der Goethe-Universität in Frankfurt am Main am Lehrstuhl für [*Texttechnology / Computational Humanities*](https://www.texttechnologylab.org) unter der Leitung und Betreuung von Prof. Dr. Alexander Mehler angefertigt. Herr Giuseppe Abrami beriet den Autor bezüglich technischer Aspekte.
 <br>
 <br>
-Thema der Arbeit: "Entwicklung und Erprobung eines interaktiven 3D-Stadtmodells am Beispiel des Personennahverkehrsnetzwerks der Stadt Frankfurt"
+Thema der Arbeit: "*Entwicklung und Erprobung eines interaktiven 3D-Stadtmodells am Beispiel des Personennahverkehrsnetzwerks der Stadt Frankfurt*"
 <br>
 
 ## Gestaltung der Evaluation
