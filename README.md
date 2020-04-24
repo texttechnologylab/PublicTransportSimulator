@@ -1,4 +1,6 @@
-# Evaluation des "ÖPNV Simulators"
+# Evaluation des "*ÖPNV Simulators*"
+
+<img align="right" width="200" height="100" src="https://upload.wikimedia.org/wikipedia/de/f/f0/Goethe-Logo.svg">
 
 Wilkommen zur offiziellen github-Seite des Texttechnologylab's zur Evaluation des "ÖPNV Simulators".
 
@@ -16,3 +18,5 @@ https://alensm.typeform.com/to/eBaLzt
 Goethe-Universität Frankfurt am Main
 Fachbereich 12 Informatik und Mathematik
 Text Technology Lab
+<img align="left" width="300" height="300" src="https://i1.rgstatic.net/ii/lab.file/AS%3A588886124281856%401517412801505_xl">
+
