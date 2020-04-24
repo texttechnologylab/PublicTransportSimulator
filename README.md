@@ -1,6 +1,9 @@
 # Evaluation des "*ÖPNV Simulators*"
 
 Wilkommen zur offiziellen github-Seite des Texttechnologylab's zur Evaluation des "*ÖPNV Simulators*".
+<br>
+
+## Über die Simulation <h2> 
 
 Die Simulation wurde im Rahmen einer Bachelorarbeit von Herrn Alen Smajic an der Goethe-Universität in Frankfurt am Main am Lehrstuhl für [*Texttechnology / Computational Humanities*](https://www.texttechnologylab.org) unter der Leitung und Betreuung von Prof. Dr. Alexander Mehler angefertigt. Herr Giuseppe Abrami beriet den Autor bezüglich technischer Aspekte.
 <br>
