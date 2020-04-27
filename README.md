@@ -2,7 +2,10 @@
 
 Wilkommen zur offiziellen github-Seite des Texttechnologylab's zur Evaluation des "*ÖPNV Simulators*".
 <br>
-<br>
+
+<p align="center">
+  <img width="200" src="https://github.com/texttechnologylab/PublicTransportSimulator/blob/master/publictransport.png">
+</p>
 
 ## Über die Simulation 
 
