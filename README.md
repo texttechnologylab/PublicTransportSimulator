@@ -18,7 +18,7 @@ Thema der Arbeit: "*Entwicklung und Erprobung eines interaktiven 3D-Stadtmodells
 
 ## Gestaltung der Evaluation
 
-Die Evaluation wird in Kooperation mit dem YouTube-Kanal [*ÖPNV Simulationen*](https://www.youtube.com/channel/UCO1BuqVzRmpsgZt8Tfxhipg) durchgeführt.
+Die Evaluation wird in Kooperation mit dem YouTube-Kanal [*ÖPNV Simulationen*](http://www.youtube.com/c/ÖPNVSimulationen) durchgeführt.
 <br>
 <br>
 **Evaluationsablauf:**
